@@ -20,4 +20,4 @@ elif gusses > 5 and gusses <= 10:
 elif gusses >10 and gusses <= 15:
     print('Good')
 else:
-    print('Try taking less gusses next time')
+    print('Try taking lesser gusses next time')
